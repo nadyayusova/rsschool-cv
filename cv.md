@@ -15,9 +15,10 @@ Website development is my passion. I am learning a lot to become a highly profes
 
 ## Skills
 
--  HTML (BEM)
+-  HTML
 -  Pug preprocessor
 -  CSS (SCSS/SASS, LESS)
+-  BEM methodology
 -  JavaScript
 -  Git/GitHub
 -  Gulp
