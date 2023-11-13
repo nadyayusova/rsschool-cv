@@ -8,10 +8,11 @@
 -  **Email:** yusova.nadya.prof@gmail.com
 -  **GitHub:** [nadyayusova](https://github.com/nadyayusova)
 -  **Telegram** [Nadya Yusova](https://t.me/nadyayusova)
+-  **Discord** [Nadya Yusova](https://discordapp.com/users/yusovanadya#6711)
 
 ## About Me
 
-Website development is my passion. I am learning a lot to become a highly professional front-end developer. I completed the course at the online school "HTML Academy" and now I am doing an traineeship at the LigaA company. To improve my skills, I am taking a course "JavaScript/Front-end 2023Q1"  at the online "RS School". Additionally, I practice programming in JavaScript on the codewars.com.
+Website development is my passion. I am learning a lot to become a highly professional front-end developer. I completed the course at the online school "HTML Academy" and now I am doing an traineeship at the LigaA company. To improve my skills, I am taking a course "JavaScript/Front-end 2023Q4"  at the online "RS School". Additionally, I practice programming in JavaScript on the codewars.com.
 
 ## Skills
 
@@ -21,7 +22,9 @@ Website development is my passion. I am learning a lot to become a highly profes
 -  BEM methodology
 -  JavaScript
 -  Git/GitHub
--  Gulp
+-  Webpack, Gulp
+-  Figma
+-  libraries: GSAP, SimpleBar, Locomotive, etc.
 
 ## Code Example
 
@@ -35,7 +38,9 @@ alert(findSmallestInt([78,56,232,12,8]));
 
 ## Experience
 
--  [LigaA](https://ligaa.agency) front-end trainee (8 months)
+-  Mari Machine-Building Factory, engineer programmer (12 years)
+-  Mari Republican Hospital, engineer programmer (14 years)
+-  [LigaA](https://ligaa.agency) front-end developer (1,5 years)
 
 ## Education
 
